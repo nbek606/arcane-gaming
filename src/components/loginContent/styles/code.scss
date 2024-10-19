@@ -1,0 +1,39 @@
+.login__code {
+  width: 100%;
+
+  &-send {
+    color: #007AFF;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+  }
+
+  &-timer {
+    color: #9E9E9E;
+    font-size: 14px;
+  }
+
+  &-buttons {
+    display: flex;
+
+    .base__button {
+      width: 50%;
+    }
+
+    &__prev {
+      width: 50%;
+      font-size: 16px;
+      color: #007AFF;
+
+      strong {
+        font-weight: 500;
+      }
+
+      i {
+        font-size: 16px;
+        margin-right: 10px;
+      }
+    }
+
+  }
+}

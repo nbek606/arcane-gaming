@@ -1,0 +1,44 @@
+{
+  "message": {
+    "hello": "Hello world!"
+  },
+  "logo": {
+    "text": "Logo (Height 40px, length up to 300px)"
+  },
+  "country": {
+    "kyrgyzstan": "Kyrgyzstan",
+    "russia": "Russia",
+    "kazakhstan": "Kazakhstan",
+    "armenia": "Armenia",
+    "belarus": "Belarus"
+  },
+  "login": {
+    "phone": {
+      "title": "Enter your phone number",
+      "description": "To login or register",
+      "select": "Country",
+      "input": "Phone number",
+      "button": "Continue"
+    },
+    "code": {
+      "title": "Enter the code",
+      "description": "Sent to number +{phoneNumber}",
+      "select": "How to get the code",
+      "input": "Enter the code",
+      "inputButton": "send",
+      "button": "Continue",
+      "prev": "Prev"
+    },
+    "layout": {
+      "conditions": "Conditions",
+      "confidentiality": "Confidentiality"
+    },
+    "registration": {
+      "button": "Login to the bot"
+    }
+  },
+  "rules": {
+    "empty": "You must enter a {name}",
+    "format": "Invalid {name} format"
+  }
+}

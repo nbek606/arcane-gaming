@@ -1,0 +1,35 @@
+.login__registration {
+  position: relative;
+  padding-bottom: 70px;
+  width: 100%;
+
+  &-back {
+    padding: 0;
+    position: absolute;
+    left: 0;
+    font-size: 16px;
+    color: #9E9E9E;
+    cursor: pointer;
+
+    &:hover {
+      background: transparent;
+    }
+  }
+
+  &-img {
+    padding: 30px 0;
+  }
+
+  &-title {
+    padding-bottom: 30px;
+  }
+
+  &-description {
+    padding-bottom: 70px;
+  }
+
+  a {
+    color: #fff;
+
+  }
+}

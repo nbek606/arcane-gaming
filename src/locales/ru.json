@@ -1,0 +1,44 @@
+{
+  "message": {
+    "hello": "Привет мир!"
+  },
+  "logo": {
+    "text": "Логотип (Высота 40px, длина до 300px)"
+  },
+  "country": {
+    "kyrgyzstan": "Кыргызстан",
+    "russia": "Россия",
+    "kazakhstan": "Казахстан",
+    "armenia": "Армения",
+    "belarus": "Белоруссия"
+  },
+  "login": {
+    "phone": {
+      "title": "Введите номер телефона",
+      "description": "Чтобы войти или зарегистрироваться",
+      "select": "Страна",
+      "input": "Номер телефона",
+      "button": "Продолжить"
+    },
+    "code": {
+      "title": "Введите код",
+      "description": "Отправлен по номеру +{phoneNumber}",
+      "select": "Способ получения кода",
+      "input": "Введите код",
+      "inputButton": "Отправить",
+      "button": "Продолжить",
+      "prev": "Назад"
+    },
+    "layout": {
+      "conditions": "Условия",
+      "confidentiality": "Конфиденциальность"
+    },
+    "registration": {
+      "button": "Авторизоваться в боте"
+    }
+  },
+  "rules": {
+    "empty": "{name} не должно быть пустым.",
+    "format": "Неверный формат {name}"
+  }
+}

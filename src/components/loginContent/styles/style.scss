@@ -1,0 +1,17 @@
+.login {
+  width: 500px;
+  margin: auto;
+
+  border: 1px solid #DFDFDF;
+  border-radius: 8px;
+
+  padding: 24px 32px;
+
+  .v-messages__message {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    padding-bottom: 10px;
+  }
+}
+
